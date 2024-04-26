@@ -2,8 +2,8 @@
 title: Jorge Charry 
 description: Theoretical and Computational Chemist
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+logo: assets/images/dice-ep.5b.png
+favicon: assets/images/dice-ep-5b.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://samanyougarg.com" # the base hostname & protocol for your site
 
