@@ -1,7 +1,7 @@
 # Site settings
 title: Jorge Charry 
 description: Theoretical and Computational Chemist
-cover: assets/images/radhakrishna.jpg
+cover: assets/images/pos-ele3.jpg
 logo: assets/images/dice-ep.5b.png
 favicon: assets/images/dice-ep-5b.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
@@ -47,11 +47,11 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: jacharrym #github username
+repo: jacharrym #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../jacharrym/ #source directory
+destination: ../jacharrym-pages/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
